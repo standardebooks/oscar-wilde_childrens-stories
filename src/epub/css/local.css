@@ -5,3 +5,7 @@
 	text-align: center;
 	font-variant: small-caps;
 }
+
+[epub|type~="dedication"]{
+	font-variant: small-caps;
+}
