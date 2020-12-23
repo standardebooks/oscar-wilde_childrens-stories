@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="the-fisherman-and-his-soul.xhtml">
+		<ignore>
+			<code>s-045</code>
+			<reason>HSH is a Title and not an initialism</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
