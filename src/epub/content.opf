@@ -50,6 +50,7 @@
 		<dc:source>https://archive.org/details/happyprinceother00wild3</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/873</dc:source>
 		<dc:source>https://archive.org/details/houseofpomegrana00wild</dc:source>
+		<meta property="se:production-notes">The titles in brackets found in the dedications are from a later edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Happy_Prince_and_Other_Tales</meta>
