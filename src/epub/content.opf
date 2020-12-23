@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/oscar-wilde/childrens-stories</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-12-23T22:45:02Z</dc:date>
+		<meta property="dcterms:modified">2020-12-23T22:45:02Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,8 +42,8 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Oscar Wilde’s children’s stories.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Early in his literary career &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt; published two collections of children’s stories and fairy tales. This edition contains the stories from both &lt;i&gt;The Happy Prince and Other Tales&lt;/i&gt; published in 1888 and &lt;i&gt;A House of Pomegranates&lt;/i&gt; published in 1891. The two books present two slightly different sensibilities, and though stories like “The Happy Prince” and “The Selfish Giant” have grown into timeless children’s classics, the darker tales told in &lt;i&gt;A House of Pomegranates&lt;/i&gt; remain less well known and were, as Wilde said, “intended neither for the British child nor the British public.”&lt;/p&gt;
-			&lt;p&gt;While Wilde is best known as an playwright and celebrated for his wit and aphorisms, his early writings contain the seeds of his biting criticism of late Victorian society. And this was true no more so than in these fairy stories which explore the ideals of friendship, love, kindness and charity; both celebrating these attributes and showing how they are too often twisted or ignored by the very societies that espouse them.&lt;/p&gt;
+			&lt;p&gt;Early in his literary career &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt; published two collections of children’s stories and fairy tales. This edition contains the stories from both &lt;i&gt;The Happy Prince and Other Tales&lt;/i&gt;, published in 1888, and &lt;i&gt;A House of Pomegranates&lt;/i&gt;, published in 1891. The two books present two slightly different sensibilities, and though stories like “The Happy Prince” and “The Selfish Giant” have grown into timeless children’s classics, the darker tales told in &lt;i&gt;A House of Pomegranates&lt;/i&gt; remain less well known and were, as Wilde said, “intended neither for the British child nor the British public.”&lt;/p&gt;
+			&lt;p&gt;While Wilde is best known as a playwright and celebrated for his wit and aphorisms, his early writings contain the seeds of his biting criticism of late Victorian society. And this was true no more so than in these fairy stories which explore the ideals of friendship, love, kindness and charity; the stories both celebrate these attributes and show how they are too often twisted or ignored by the very societies that espouse them.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/902</dc:source>
@@ -51,8 +51,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/873</dc:source>
 		<dc:source>https://archive.org/details/houseofpomegrana00wild</dc:source>
 		<meta property="se:production-notes">Dedications with names separated by commas include the name present in later editions.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">49440</meta>
+		<meta property="se:reading-ease.flesch">76.76</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Happy_Prince_and_Other_Tales</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_House_of_Pomegranates</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/oscar-wilde_childrens-stories</meta>
@@ -81,6 +81,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
