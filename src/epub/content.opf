@@ -33,7 +33,7 @@
 		<dc:subject id="subject-2">Children's stories, English</dc:subject>
 		<dc:subject id="subject-3">Short stories, English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">sh85046925</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85023798</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
