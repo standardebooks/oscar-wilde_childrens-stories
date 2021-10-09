@@ -41,6 +41,8 @@
 		<meta property="term" refines="#subject-3">sh85121854</meta>
 		<meta property="se:subject">Childrens</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A collection of Oscar Wilde’s children’s stories.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Early in his literary career &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt; published two collections of children’s stories and fairy tales. This edition contains the stories from both &lt;i&gt;The Happy Prince and Other Tales&lt;/i&gt;, published in 1888, and &lt;i&gt;A House of Pomegranates&lt;/i&gt;, published in 1891. The two books present two slightly different sensibilities, and though stories like “The Happy Prince” and “The Selfish Giant” have grown into timeless children’s classics, the darker tales told in &lt;i&gt;A House of Pomegranates&lt;/i&gt; remain less well known and were, as Wilde said, “intended neither for the British child nor the British public.”&lt;/p&gt;
