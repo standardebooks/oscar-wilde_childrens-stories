@@ -2,8 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 #the-selfish-giant blockquote{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 [epub|type~="dedication"]{
