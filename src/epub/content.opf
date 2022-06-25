@@ -39,6 +39,7 @@
 		<meta property="term" refines="#subject-3">sh85121854</meta>
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A collection of Oscar Wilde’s children’s stories.</dc:description>
