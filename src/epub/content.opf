@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/oscar-wilde/childrens-stories</dc:identifier>
 		<dc:date>2020-12-23T22:45:02Z</dc:date>
@@ -47,11 +47,11 @@
 		<meta property="schema:hasPart" refines="#collection-1" id="collection-1-entry-1">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-1-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-1-entry-1">The Happy Prince</meta>
-		<dc:description id="description">A collection of Oscar Wilde’s children’s stories.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of Oscar Wilde’s children’s stories.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Early in his literary career &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt; published two collections of children’s stories and fairy tales. This edition contains the stories from both &lt;i&gt;The Happy Prince and Other Tales&lt;/i&gt;, published in 1888, and &lt;i&gt;A House of Pomegranates&lt;/i&gt;, published in 1891. The two books present two slightly different sensibilities, and though stories like “The Happy Prince” and “The Selfish Giant” have grown into timeless children’s classics, the darker tales told in &lt;i&gt;A House of Pomegranates&lt;/i&gt; remain less well known and were, as Wilde said, “intended neither for the British child nor the British public.”&lt;/p&gt;
 			&lt;p&gt;While Wilde is best known as a playwright and celebrated for his wit and aphorisms, his early writings contain the seeds of his biting criticism of late Victorian society. And this was true no more so than in these fairy stories which explore the ideals of friendship, love, kindness and charity; the stories both celebrate these attributes and show how they are too often twisted or ignored by the very societies that espouse them.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/902</dc:source>
 		<dc:source>https://archive.org/details/happyprinceother00wild3</dc:source>
