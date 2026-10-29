@@ -44,7 +44,7 @@
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta property="schema:hasPart" refines="#collection-1" id="collection-1-entry-1">schema:hasPart</meta>
+		<meta id="collection-1-entry-1" property="schema:hasPart" refines="#collection-1">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-1-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-1-entry-1">The Happy Prince</meta>
 		<meta property="schema:abstract">A collection of Oscar Wilde’s children’s stories.</meta>
@@ -66,6 +66,7 @@
 		<link href="https://github.com/standardebooks/oscar-wilde_childrens-stories" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Oscar Wilde</dc:creator>
 		<meta property="file-as" refines="#author">Wilde, Oscar</meta>
+		<meta property="schema:alternateName" refines="#author">Oscar Fingal O’Flahertie Wills Wilde</meta>
 		<link href="https://en.wikipedia.org/wiki/Oscar_Wilde" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79042038.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
